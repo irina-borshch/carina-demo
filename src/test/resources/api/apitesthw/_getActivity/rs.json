@@ -1,0 +1,9 @@
+{
+  "activity": "type:String",
+  "type": "type:String",
+  "participants": "type:Integer",
+  "price": "type:Double",
+  "link": "type:String",
+  "key": "type:string",
+  "accessibility": "type:Double"
+}

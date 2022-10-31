@@ -1,0 +1,6 @@
+{
+  "id": "type:Integer",
+  "type": "type:String",
+  "setup": "type:String",
+  "punchline": "type:String"
+}

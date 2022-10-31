@@ -1,0 +1,38 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"required": [
+		"activity",
+		"type",
+		"participants",
+		"price",
+		"link",
+		"key",
+		"accessibility"
+	],
+	"properties": {
+		"activity": {
+			"type": "string"
+		},
+		"type": {
+			"type": "string"
+		},
+		"participants": {
+			"type": "integer"
+		},
+		"price": {
+			"type": "number",
+		},
+		"link": {
+			"type": "string"
+		},
+		"key": {
+			"type": "string"
+		},
+		"accessibility": {
+			"type": "number"
+
+		}
+	}
+}
